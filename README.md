@@ -1,2 +1,2 @@
 # Kaggle-Challenges
-Kaggle challenges
+Check the other Branches to see my solutions to the different challenges
